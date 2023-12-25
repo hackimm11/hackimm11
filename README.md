@@ -1,7 +1,7 @@
 ## Abdel-hakim ARAB
-- Final year Automation and Control Engineering student at **National Polytechnic School of Algiers**.
+- Automation and Control Engineer, and Final Year **Autonomous Mobile Systems** MAster student, **Perception and Vision** Option.
 - **Data Science** and **Artificial Intelligence** enthousiast.
-- I can actually collaborate in any data science project specially **Reinforcement Learning** and **Machine Vision**.
-- My email: abdel_hakim.arab@g.enp.edu.dz
+- Looking for 6 months Internship  in what concerns ** AI**, **Machine Vision**, and **Autonmous And Intellegnt Systems**.
+- My email: abhakimarab@gmail.com
 - Fun fact about me : **I don't like github :/**
 
