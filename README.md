@@ -1,7 +1,6 @@
 ## Abdel-hakim ARAB
 - Control And Automation Enginner, and Mathématiques, Vision, Apprentissage - **MVA** Master Student.
-- **Data Science** and **Artificial Intelligence** enthousiast.
-- Looking for 6 months Internship  in what concerns **AI**, **Computer Vision**.
+- **Data Science**, **Computer Vision**, and **robotics** enthousiast.
 - My email: abhakimarab@gmail.com
 - Fun fact about me : **I don't like github :/**
 
